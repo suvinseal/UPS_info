@@ -11,4 +11,5 @@ Integration of SQLite and java for data collection/management.
 The main goal of this project is to decrease the work load of student employees who work at the Office of Information technology at WAC. To collect data and store it on a database, the Java database connectivity library JDBC will be used to store data entered by the users. Java swing will be used to make buttons and have GUI display which will make the software user friendly and easy to use.
 
 ## Deliverables
-https://github.com/suvinseal/UPS_info-SoftwareAnalyst/issues/1#issue-589736236
+![image](https://user-images.githubusercontent.com/45140795/77843544-32265100-716c-11ea-989b-4138e10ccc3b.png)
+
