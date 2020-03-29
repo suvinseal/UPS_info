@@ -12,4 +12,3 @@ The main goal of this project is to decrease the work load of student employees 
 
 ## Deliverables
 
-![UML](https://prnt.sc/ropyvc)
