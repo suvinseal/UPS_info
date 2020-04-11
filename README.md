@@ -15,3 +15,5 @@ The main goal of this project is to decrease the work load of student employees 
 
 The project has two parts. The first part is to use JDBC, an API in Java which is used for client-side handling and managing a database. For my project, I used JDBC to connect my Java code with SQLite. 
 Classes SurveyInfo, Rack and Building are three classes which have the accessors and mutators to set and get all attributes from the tables in SQLite. Once the queries are called in Java, these classes are used to make changes in the attributes of the tables in the database.  
+
+### GUI
